@@ -1,0 +1,9 @@
+[
+  "read:auth",
+  "read:builds",
+  "read:config",
+  "read:courses",
+  "read:helloworld",
+  "read:lang",
+  "read:users"
+]
